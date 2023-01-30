@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi :wave: I am Tim (he/him)
+
+I work as a Premium Support Engineer at GitHub. My background is in physics and astrophysics. :telescope:
+
+Outside of work, I enjoy
+- running table top RPGs :game_die::game_die:
+- all things sci-fi :rocket:
+- film photography :camera:
+- making and listening to music :guitar:
+- watching all kinds of sports :racing_car: :football:
 
 <!--
 **sn2b/sn2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
