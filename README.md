@@ -1,6 +1,6 @@
 ### Hi :wave: I am Tim (he/him)
 
-I work as a Premium Support Engineer at GitHub. My background is in physics and astrophysics. :telescope:
+I work as a [Premium Support Engineer](https://github.com/premium-support) at GitHub. My background is in physics and astrophysics. :telescope:
 
 Outside of work, I enjoy
 - running table top RPGs :game_die::game_die:
