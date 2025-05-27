@@ -1,25 +1,22 @@
-### Hi :wave: I am Tim (he/him)
+## 🚀 About Me
 
-I work as a [Premium Support Engineer](https://github.com/premium-support) at GitHub. My background is in physics and astrophysics. :telescope:
+I'm a [Support Engineer](https://docs.github.com/en/enterprise-cloud@latest/support/learning-about-github-support/about-github-support) at **GitHub**. My background is in physics and astrophysics 🔭, and I'm passionate about helping developers succeed.
 
-Outside of work, I enjoy
-- running table top RPGs :game_die::game_die:
-- all things sci-fi :rocket:
-- film photography :camera:
-- making and listening to music :guitar:
-- watching all kinds of sports :racing_car: :football:
+---
 
-<!--
-**sn2b/sn2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills & Interests
 
-Here are some ideas to get you started:
+- 🧑‍💻 GitHub Support & DevOps
+- 🪐 Physics & Astrophysics
+- 🎲 Tabletop RPGs
+- 🚀 Sci-fi Enthusiast
+- 📷 (Film) Photography
+- 🎸 Music Maker & Listener
+- 🏎️ Sports Fan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/tmoellers)
+- GitHub: You're looking at it!
